@@ -1,1 +1,38 @@
-# SmartAgent
+<p align="center" width="100%">
+  <img src='assets/SmartAgent_banner2.png' width="100%">
+</p>
+
+
+# SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World
+The official repository of our paper "SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World". We will release code and data upon paper notification.
+
+
+# Chain-of-User-Thought (COUT) Reasoning Paradigm
+We formulate COUT to achieve embodied personalized agent training in terms of three stages of thought. In Thought #1, according to a user' s instruction, an agent performs GUI actions to search for an item pool. In Thought #2 with seeing the pool, the agent reasons underlying requirements behind the original instruction, as implied by the previous actions. In Thought #3, based on the underlying thought, the agent recommends items within the pool to complete the user's instruction. By leveraging user-oriented thoughts, this COUT could enable full-stage embodied personalized capabilities across various information systems. 
+
+<p align="center" width="100%">
+  <img src='assets/COUT.png' width="100%">
+</p>
+
+
+# SmartSpot Benchmark
+The first environment supports full-stage embodied personalized evaluation.
+
+<p align="center" width="100%">
+  <img src='assets/Datasets_statistics.png' width="100%">
+</p>
+
+
+# SmartAgent Model
+The capabilities of SmartAgent from basic embodied operations to personalized reasoning.
+
+<p align="center" width="100%">
+  <img src='assets/SmartAgent_capabilities.png' width="100%">
+</p>
+
+
+Two-stage training paradigm of SmartAgent.
+
+<p align="center" width="100%">
+  <img src='assets/Two_stage_model.png' width="100%">
+</p>
