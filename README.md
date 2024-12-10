@@ -8,12 +8,12 @@ The official repository of our paper "SmartAgent: Chain-of-User-Thought for Embo
 
 
 # Chain-of-User-Thought (COUT) Reasoning Paradigm
-We formulate COUT to achieve embodied personalized agent training in terms of three stages of thought. In Thought #1, according to a user' s instruction, an agent performs GUI actions to search for an item pool. In Thought #2 with seeing the pool, the agent reasons underlying requirements behind the original instruction, as implied by the previous actions. In Thought #3, based on the underlying thought, the agent recommends items within the pool to complete the user's instruction. By leveraging user-oriented thoughts, this COUT could enable full-stage embodied personalized capabilities across various information systems. 
+We formulate COUT to achieve embodied personalized agent training in terms of three stages of thought. In Thought #1, according to a user' s instruction, an agent performs GUI actions to search for an item pool. In Thought #2 with seeing the pool, the agent reasons underlying requirements behind the original instruction, as implied by the previous actions. In Thought #3, based on the underlying thought, the agent recommends items within the pool to complete the user's instruction. 
 
 <p align="center" width="100%">
   <img src='assets/COUT.png' width="100%">
 </p>
-
+By leveraging user-oriented thoughts, this COUT could enable full-stage embodied personalized capabilities across various information systems. 
 
 # SmartSpot Benchmark
 The first environment supports full-stage embodied personalized evaluation.
