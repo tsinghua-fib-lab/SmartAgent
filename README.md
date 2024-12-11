@@ -43,7 +43,7 @@ Please consider citing our paper and staring this repo if you find SmartAgent he
 ```bib
 @article{zhang2024smartagent,
       title={SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World}, 
-      author={Jiaqi Zhang and Chen Gao and Liyuan Zhang and Yong Li and Hongzhi Yin},
+      author={Zhang, Jiaqi and Gao, Chen and Zhang, Liyuan and Li, Yong and Yin, Hongzhi},
       journal={arXiv preprint arXiv:2412.07472},
       year={2024}
 }
