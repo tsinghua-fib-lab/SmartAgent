@@ -4,7 +4,7 @@
 
 
 # SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World
-The official repository of our paper "SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World". We will release code and data upon paper notification.
+The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/pdf/2412.07472)". We will release code and data upon paper notification.
 
 
 # Chain-of-User-Thought (COUT) Reasoning Paradigm
@@ -36,3 +36,15 @@ Two-stage training paradigm of SmartAgent.
 <p align="center" width="100%">
   <img src='assets/Two_stage_model.png' width="100%">
 </p>
+
+# Citation
+Please consider citing our paper and staring this repo if you find SmartAgent helpful in your work, thanks!
+
+```bib
+@article{zhang2024smartagent,
+      title={SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World}, 
+      author={Jiaqi Zhang and Chen Gao and Liyuan Zhang and Yong Li and Hongzhi Yin},
+      journal={arXiv preprint arXiv:2412.07472},
+      year={2024}
+}
+```
