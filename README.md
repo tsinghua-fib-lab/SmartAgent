@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src='assets/SmartAgent_banner2.png' width="100%">
+  <img src='assets/SmartAgent_banner2_1.png' width="100%">
 </p>
 
 
