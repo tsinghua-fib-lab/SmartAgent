@@ -7,7 +7,7 @@
 The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/pdf/2412.07472)". We will release code and data upon paper notification.
 
 # Blogs 🤗 
-Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?color=yellow) with more brilliant works on LLMs/MLLMs reasoning.
+Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?color=yellow) with more brilliant works on LLMs/MLLMs reasoning!
 
 # Chain-of-User-Thought (COUT) Reasoning Paradigm
 We formulate COUT to achieve embodied personalized agent training in terms of three stages of thought. In Thought #1, according to a user's instruction, an agent performs GUI actions to search for an item pool. In Thought #2 with seeing the pool, the agent reasons underlying requirements behind the original instruction, as implied by the previous actions. In Thought #3, based on the underlying thought, the agent recommends items within the pool to complete the user's instruction. 
