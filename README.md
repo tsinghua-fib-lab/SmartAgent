@@ -6,7 +6,7 @@
 # SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World
 The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/pdf/2412.07472)". We will release code and data upon paper notification.
 
-# Blogs
+# Blogs 🤗 
 Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?color=yellow) with more brilliant works on LLMs/MLLMs reasoning.
 
 # Chain-of-User-Thought (COUT) Reasoning Paradigm
