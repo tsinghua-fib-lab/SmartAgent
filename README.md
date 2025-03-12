@@ -8,7 +8,7 @@ The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Emb
 
 # Blogs 🤗 
 - Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?color=yellow) with more brilliant works on LLM/MLLM reasoning!
-- Find SmartAgent in [A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval](https://arxiv.org/pdf/2503.05659) [[Github](https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search) ![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search?color=yellow)] with more fascinating LLM agents inspiring the next-generation information retrieval!
+- Find SmartAgent in [LLM-Agent-for-Recommendation-and-Search](https://arxiv.org/pdf/2503.05659) [[Github](https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search) ![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search?color=yellow)] with more fascinating LLM agents inspiring the next-generation information retrieval!
 
 
 # Chain-of-User-Thought (COUT) Reasoning Paradigm
