@@ -8,6 +8,7 @@ The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Emb
 
 # Blogs 🤗 
 - Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?color=yellow) with more brilliant works on LLM/MLLM reasoning!
+- Find SmartAgent in [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/pdf/2503.12605) [[Github](https://github.com/yaotingwangofficial/Awesome-MCoT) ![GitHub stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT?color=yellow)] with the latest Multimodal CoT reasoning techniques toward multimodal AGI!
 - Find SmartAgent in [LLM-Agent-for-Recommendation-and-Search](https://arxiv.org/pdf/2503.05659) [[Github](https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search) ![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search?color=yellow)] with more fascinating LLM agents inspiring the next-generation information retrieval!
 
 
