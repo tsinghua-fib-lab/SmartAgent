@@ -9,6 +9,7 @@ The official repository of our paper "[SmartAgent: Chain-of-User-Thought for Emb
 # Blogs 🤗 
 - Find SmartAgent in [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) [![Star](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning.svg?style=social&label=Star)](https://github.com/atfortes/Awesome-LLM-Reasoning) with more brilliant works on LLM/MLLM reasoning!
 - Find SmartAgent in [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/pdf/2503.12605) [![Star](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT.svg?style=social&label=Star)](https://github.com/yaotingwangofficial/Awesome-MCoT) with the latest Multimodal CoT reasoning techniques toward multimodal AGI!
+- Find SmartAgent in [Agentic Web: Weaving the Next Web with AI Agents](https://github.com/SafeRL-Lab/agentic-web) [![Star](https://img.shields.io/github/stars/SafeRL-Lab/agentic-web.svg?style=social&label=Star)](https://github.com/SafeRL-Lab/agentic-web) opening opportunities and challenges of intelligence, interaction, and economics for the next-generation web technologies!
 - Find SmartAgent in [LLM-Agent-for-Recommendation-and-Search](https://arxiv.org/pdf/2503.05659) [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search) with more fascinating LLM agents inspiring the next-generation information retrieval!
 
 
